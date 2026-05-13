@@ -7,7 +7,7 @@ TAS2O Complete Package of Webtree Academy
 - Phone: (416) 792-8280
 - Email: info@webtreeedu.com
 
-This package contains 46 documents: 45 TAS2O course and administration files plus the master index. Review the master index first and replace any remaining placeholders before formal use.
+This package contains 50 documents: 49 TAS2O course and administration files plus the master index. Review the master index first and replace any remaining placeholders before formal use.
 
 Confirmed on-site practical resources
 - 3D printer available for prototyping and design iteration
@@ -53,65 +53,68 @@ Directory structure
 
 File list
 00_Master_Index
-- TAS2O_Complete_Package_Master_Index.docx
+- TAS2O_Complete_Package_Master_Index_Webtree_2026.docx
 - TAS2O_Master_Inspection_Navigation_Addendum.md
 
 01_Course_Core
-- TAS2O_Course_Outline.docx
-- TAS2O_110_Hour_Pacing_Guide.docx
-- TAS2O_Curriculum_Mapping_Expectations_Coverage.docx
-- TAS2O_Unit_Plans.docx
-- TAS2O_Indigenous_Content_Course_Outline_Addendum.docx
-- TAS2O_Indigenous_Innovation_Lesson_Plan.docx
+- TAS2O_Course_Outline_Webtree_2026.docx
+- TAS2O_110_Hour_Pacing_Guide_Webtree_2026.docx
+- TAS2O_Curriculum_Mapping_Expectations_Coverage_Webtree_2026.docx
+- TAS2O_Unit_Plans_Webtree_2026.docx
+- TAS2O_Indigenous_Content_Course_Outline_Addendum_Webtree_2026.docx
+- TAS2O_Indigenous_Innovation_Lesson_Plan_Webtree_2026.docx
 - TAS2O_Indigenous_Integration_Evidence_Addendum.md
 
 02_Assignments_and_Rubrics
-- TAS2O_Major_Assignments_Package.docx
-- TAS2O_Rubrics_Package.docx
-- TAS2O_Teacher_Exemplars_Student_Work_Samples_Package.docx
-- TAS2O_Project_Plan_Template_with_Indigenous_Prompt.docx
+- TAS2O_Major_Assignments_Package_Webtree_2026.docx
+- TAS2O_Rubrics_Package_Webtree_2026.docx
+- TAS2O_Teacher_Exemplars_Student_Work_Samples_Package_Webtree_2026.docx
+- TAS2O_Project_Plan_Template_with_Indigenous_Prompt_Webtree_2026.docx
 - TAS2O_Anonymous_Assessment_Sample_Packet_Guide.md
 
 03_Safety_AI_and_Practical_Controls
-- TAS2O_Safety_Package.docx
-- TAS2O_AI_Policy_Academic_Integrity_Package.docx
-- TAS2O_Parent_Consent_Practical_Course_Acknowledgement.docx
-- TAS2O_Photo_Video_Portfolio_Consent_Form.docx
-- TAS2O_Substitute_Teacher_Emergency_Plan.docx
+- TAS2O_Safety_Package_Webtree_2026.docx
+- TAS2O_AI_Policy_Academic_Integrity_Package_Webtree_2026.docx
+- TAS2O_Parent_Consent_Practical_Course_Acknowledgement_Webtree_2026.docx
+- TAS2O_Photo_Video_Portfolio_Consent_Form_Webtree_2026.docx
+- TAS2O_Substitute_Teacher_Emergency_Plan_Webtree_2026.docx
 - TAS2O_Safety_Practical_Resources_Addendum.md
 - TAS2O_Safety_Signoff_and_Equipment_Permit_Log.md
 
 04_Assessment_Attendance_and_Credit_Reporting
-- TAS2O_Assessment_Records_Package.docx
-- TAS2O_Attendance_110_Hour_Evidence_Log.docx
-- TAS2O_Online_Blended_Learning_Evidence_Log.docx
-- TAS2O_Report_Card_Credit_Reporting_Procedure.docx
-- TAS2O_Teacher_Daily_Lesson_Log.docx
-- TAS2O_Observation_Record_Form.docx
-- TAS2O_Student_Conference_Record.docx
+- TAS2O_Assessment_Records_Package_Webtree_2026.docx
+- TAS2O_Attendance_110_Hour_Evidence_Log_Webtree_2026.docx
+- TAS2O_Online_Blended_Learning_Evidence_Log_Webtree_2026.docx
+- TAS2O_Report_Card_Credit_Reporting_Procedure_Webtree_2026.docx
+- TAS2O_Teacher_Daily_Lesson_Log_Webtree_2026.docx
+- TAS2O_Observation_Record_Form_Webtree_2026.docx
+- TAS2O_Student_Conference_Record_Webtree_2026.docx
 - TAS2O_Assessment_Practical_Resources_Addendum.md
 - TAS2O_Daily_Lesson_Log_Completion_Guide.md
 - TAS2O_Online_Blended_Practical_Work_Guide.md
 
 05_School_Admin_and_Inspection
-- Full_School_Course_Calendar_Template_OSSD.docx
-- TAS2O_Inspection_Binder_Index_Ministry_Submission_Checklist.docx
-- TAS2O_School_Course_Calendar_Addendum.docx
-- TAS2O_School_Pre_Inspection_Package_Checklist.docx
-- TAS2O_Teacher_Qualification_Resume_Training_File_Template.docx
-- OSR_OST_Policy_and_Procedure.docx
+- Full_School_Course_Calendar_Template_OSSD_Webtree_2026.docx
+- TAS2O_Inspection_Binder_Index_Ministry_Submission_Checklist_Webtree_2026.docx
+- TAS2O_School_Course_Calendar_Addendum_Webtree_2026.docx
+- TAS2O_School_Pre_Inspection_Package_Checklist_Webtree_2026.docx
+- TAS2O_Teacher_Qualification_Resume_Training_File_Template_Webtree_2026.docx
+- OSR_OST_Policy_and_Procedure_Webtree_2026.docx
 - TAS2O_Inspection_Resources_Navigation_Addendum.md
+- TAS2O_Teacher_Credential_Status_and_Recruitment_Plan.md
 
 06_Facilities_Technology_and_Budget
-- TAS2O_Equipment_Inventory_Maintenance_Log.docx
-- TAS2O_Lab_Classroom_Setup_Checklist.docx
-- TAS2O_Materials_Consumables_Budget.docx
-- TAS2O_Technology_Setup_Account_Access_Checklist.docx
+- TAS2O_Equipment_Inventory_Maintenance_Log_Webtree_2026.docx
+- TAS2O_Lab_Classroom_Setup_Checklist_Webtree_2026.docx
+- TAS2O_Materials_Consumables_Budget_Webtree_2026.docx
+- TAS2O_Technology_Setup_Account_Access_Checklist_Webtree_2026.docx
 - TAS2O_Onsite_Practical_Resources_Addendum.md
+- TAS2O_Lab_Photo_Placeholder_Manifest.md
 
 07_Student_Communication_and_Showcase
-- TAS2O_Capstone_Showcase_Demo_Day_Plan.docx
-- TAS2O_Communication_Templates_Package.docx
-- TAS2O_Student_Onboarding_Package.docx
+- TAS2O_Capstone_Showcase_Demo_Day_Plan_Webtree_2026.docx
+- TAS2O_Communication_Templates_Package_Webtree_2026.docx
+- TAS2O_Student_Onboarding_Package_Webtree_2026.docx
 
 https://www.dcp.edu.gov.on.ca/en/curriculum/technological-education/courses/tas2o
+
