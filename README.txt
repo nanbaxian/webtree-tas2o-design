@@ -1,4 +1,6 @@
 TAS2O Complete Package of Webtree Academy
+Inspection status: Ready for pre-inspection review | Last updated: 2026-05-13
+
 - BSID: 883796
 - Instructor: Carlos Chen
 - Principal: Henry Michels
@@ -7,7 +9,7 @@ TAS2O Complete Package of Webtree Academy
 - Phone: (416) 792-8280
 - Email: info@webtreeedu.com
 
-This package contains 50 documents: 49 TAS2O course and administration files plus the master index. Review the master index first and replace any remaining placeholders before formal use.
+This package contains 49 documents: 48 TAS2O course and administration files plus the master index. Review the master index first and replace any remaining placeholders before formal use.
 
 Confirmed on-site practical resources
 - 3D printer available for prototyping and design iteration
