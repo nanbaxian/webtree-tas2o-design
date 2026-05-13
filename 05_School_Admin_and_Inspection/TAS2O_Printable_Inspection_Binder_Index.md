@@ -12,7 +12,7 @@ Binder order:
 6. Indigenous integration evidence
 7. Major assignments, rubrics, and exemplars
 8. Anonymous assessment sample packet
-9. Specific expectations verification matrix
+9. Specific expectations verification matrices
 10. Safety package and AI policy
 11. Safety sign-off and equipment permit log
 12. Attendance evidence and daily lesson logs

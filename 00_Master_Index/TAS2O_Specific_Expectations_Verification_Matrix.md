@@ -1,6 +1,6 @@
-# TAS2O Specific Expectations Verification Matrix
+# TAS2O Strand A Specific Expectations Verification Matrix
 
-This matrix uses the official TAS2O specific expectation wording from the Ontario Ministry curriculum page for the Strand A expectations covered in this binder.
+This matrix uses the official TAS2O Strand A specific expectation wording from the Ontario Ministry curriculum page.
 
 Official source:
 
