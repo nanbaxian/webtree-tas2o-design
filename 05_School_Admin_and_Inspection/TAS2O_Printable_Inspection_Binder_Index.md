@@ -9,7 +9,7 @@ Binder order:
 3. Course outline and course identity documents
 4. 110-hour pacing guide and calendar alignment
 5. Curriculum mapping and unit plans
-6. Indigenous integration evidence
+6. Indigenous integration evidence and Unit 5 innovation sample page
 7. Major assignments, rubrics, and exemplars
 8. Anonymous assessment sample packet
 9. Specific expectations verification matrices

@@ -4,7 +4,7 @@ This navigation addendum sits behind the master index and provides the primary r
 
 | Evidence cluster | What it covers | Main files to open |
 | --- | --- | --- |
-| Course core | Course identity, pacing, expectations, and unit planning | Course outline, 110-hour pacing guide, curriculum mapping, unit plans, Indigenous integration evidence addendum |
+| Course core | Course identity, pacing, expectations, and unit planning | Course outline, 110-hour pacing guide, curriculum mapping, unit plans, Indigenous integration evidence addendum, Unit 5 Canadian innovation case study sample page |
 | Assessment and moderation | Assignments, rubrics, exemplars, and moderation support | Major assignments package, rubrics package, teacher exemplars and student work samples package, anonymous assessment sample packet guide |
 | Specific expectations verification | Official code-by-code curriculum mapping | Strand A specific expectations matrix, Strand B specific expectations matrix |
 | Safety and practical controls | Safety procedures, AI policy, equipment permission, and practical resources | Safety package, AI policy and academic integrity package, safety sign-off and equipment permit log, practical resources addenda |
