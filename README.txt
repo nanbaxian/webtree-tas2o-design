@@ -7,7 +7,7 @@ TAS2O Complete Package of Webtree Academy
 - Phone: (416) 792-8280
 - Email: info@webtreeedu.com
 
-This package contains 40 documents: 39 TAS2O course and administration files plus the master index. Review the master index first and replace any remaining placeholders before formal use.
+This package contains 45 documents: 44 TAS2O course and administration files plus the master index. Review the master index first and replace any remaining placeholders before formal use.
 
 Confirmed on-site practical resources
 - 3D printer available for prototyping and design iteration
@@ -62,12 +62,14 @@ File list
 - TAS2O_Unit_Plans.docx
 - TAS2O_Indigenous_Content_Course_Outline_Addendum.docx
 - TAS2O_Indigenous_Innovation_Lesson_Plan.docx
+- TAS2O_Indigenous_Integration_Evidence_Addendum.md
 
 02_Assignments_and_Rubrics
 - TAS2O_Major_Assignments_Package.docx
 - TAS2O_Rubrics_Package.docx
 - TAS2O_Teacher_Exemplars_Student_Work_Samples_Package.docx
 - TAS2O_Project_Plan_Template_with_Indigenous_Prompt.docx
+- TAS2O_Anonymous_Assessment_Sample_Packet_Guide.md
 
 03_Safety_AI_and_Practical_Controls
 - TAS2O_Safety_Package.docx
@@ -76,6 +78,7 @@ File list
 - TAS2O_Photo_Video_Portfolio_Consent_Form.docx
 - TAS2O_Substitute_Teacher_Emergency_Plan.docx
 - TAS2O_Safety_Practical_Resources_Addendum.md
+- TAS2O_Safety_Signoff_and_Equipment_Permit_Log.md
 
 04_Assessment_Attendance_and_Credit_Reporting
 - TAS2O_Assessment_Records_Package.docx
@@ -86,6 +89,8 @@ File list
 - TAS2O_Observation_Record_Form.docx
 - TAS2O_Student_Conference_Record.docx
 - TAS2O_Assessment_Practical_Resources_Addendum.md
+- TAS2O_Daily_Lesson_Log_Completion_Guide.md
+- TAS2O_Online_Blended_Practical_Work_Guide.md
 
 05_School_Admin_and_Inspection
 - Full_School_Course_Calendar_Template_OSSD.docx

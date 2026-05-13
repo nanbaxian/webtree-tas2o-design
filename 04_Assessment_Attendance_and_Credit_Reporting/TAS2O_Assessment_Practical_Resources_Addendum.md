@@ -22,3 +22,4 @@ Filing guidance:
 - Daily lesson logs should identify the practical resource used.
 - Attendance logs should show whether the practical was completed or made up.
 - Student conference records should reference the practical task and the teacher feedback provided.
+- If moderation evidence is required, attach the anonymous assessment sample packet to the same assignment record.

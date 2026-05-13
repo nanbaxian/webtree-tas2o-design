@@ -25,3 +25,4 @@ Filing guidance:
 - File safety briefings and student acknowledgements with the safety package.
 - Attach AI usage rules and logging expectations to the AI policy.
 - Record any incident or near-miss involving the printer or circuit boards in the substitute/emergency plan and safety log.
+- Use the safety sign-off and equipment permit log for live course entries.
