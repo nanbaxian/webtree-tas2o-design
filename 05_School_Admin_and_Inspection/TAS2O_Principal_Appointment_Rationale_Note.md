@@ -4,7 +4,7 @@ This memorandum is intended for the school administrative binder and records the
 
 Teacher information:
 
-- Teacher name: Carlos Chen
+- Teacher name: [redacted in public copy]
 - Assignment: TAS2O
 - School-based appointment date: [insert date]
 
@@ -16,7 +16,7 @@ Current documentation on file:
 
 Principal statement:
 
-The principal appoints Carlos Chen to deliver TAS2O based on school-level hiring judgment, current staffing needs, and the certification documentation currently on file.
+The principal appoints the current instructor to deliver TAS2O based on school-level hiring judgment, current staffing needs, and the certification documentation currently on file.
 
 Principal signature block:
 
