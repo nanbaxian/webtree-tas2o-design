@@ -1,23 +1,28 @@
-# TAS2O Principal Appointment Rationale Note
+# TAS2O Principal Appointment Memorandum
 
-This note is for the principal file and records the reason the teacher was appointed to TAS2O.
+This memorandum is intended for the school administrative binder and records the principal's appointment of the teacher assigned to TAS2O.
 
-Current credential status on file:
+Teacher information:
+
+- Teacher name: Carlos Chen
+- Assignment: TAS2O
+- School-based appointment date: [insert date]
+
+Current documentation on file:
 
 - WHMIS certificate: on file
 - First Aid certificate: on file
+- Principal appointment note: on file
 
-Appointment rationale fields:
+Principal statement:
 
-- Teacher name: Carlos Chen
-- School-based appointment date: [insert date]
-- Basis for appointment: [insert rationale]
-- Review completed by principal: [insert name]
-- Follow-up action for missing credentials: [insert action]
+The principal appoints Carlos Chen to deliver TAS2O based on school-level hiring judgment, current staffing needs, and the certification documentation currently on file.
 
-Appointment statement:
+Principal signature block:
 
-- The principal appoints this teacher to deliver TAS2O on the basis of school-level hiring judgment, the current staffing need, and the available WHMIS and First Aid certification.
+- Principal name: [insert name]
+- Signature: ____________________
+- Date: [insert date]
 
 Supporting evidence to attach:
 
@@ -28,5 +33,6 @@ Supporting evidence to attach:
 
 Filing guidance:
 
-- Keep this note with the teacher qualification file.
-- Do not treat this note as a substitute for the missing credential documents.
+- Keep this memorandum with the teacher qualification file.
+- Use this memorandum as the appointment record for binder review.
+- Do not treat this memorandum as a substitute for the underlying certificate scans.
