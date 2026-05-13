@@ -3,7 +3,7 @@
 Current credential status:
 
 - Confirmed on file: WHMIS and First Aid certification.
-- Not yet on file: OCT certificate.
+- Not on file: OCT certificate.
 - Not yet on file: technical education qualification evidence.
 - Expected submission date for missing credentials: [insert date]
 
@@ -15,7 +15,7 @@ Interim administrative position:
 
 Recruitment plan:
 
-- Publish or retain a job description seeking an OCT-certified teacher with technological education experience.
+- Publish or retain a job description seeking a teacher who meets the applicable Ontario credential requirements and has technological education experience.
 - Recruitment posting date: [insert date]
 - Note the recruitment channel, posting date, and follow-up contact log.
 - Record the expected submission date for any outstanding credential documents once a candidate is confirmed.
