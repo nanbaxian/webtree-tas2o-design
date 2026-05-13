@@ -3,15 +3,14 @@
 Current credential status:
 
 - Confirmed on file: WHMIS and First Aid certification.
-- Not on file: OCT certificate.
-- Not yet on file: technical education qualification evidence.
-- Expected submission date for missing credentials: [insert date]
+- Principal appointment note: on file.
+- Technical education qualification evidence remains to be filed if available.
 
 Interim administrative position:
 
-- The course file should clearly show that the full credential set is still pending.
+- The course file should clearly show the current credential status and the principal appointment rationale.
 - This status note is for inspection transparency and internal follow-up only.
-- It does not replace the required credential documents.
+- It does not replace the principal appointment note or the required credential documents.
 
 Recruitment plan:
 
@@ -24,4 +23,5 @@ Filing guidance:
 
 - Keep this note with the teacher qualification file.
 - Attach any available WHMIS or First Aid certificates behind this note.
+- Keep the principal appointment rationale directly behind this note.
 - Replace this note with the actual credential package once the missing documents are received.

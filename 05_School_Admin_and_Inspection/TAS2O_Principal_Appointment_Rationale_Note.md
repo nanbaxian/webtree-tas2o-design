@@ -6,7 +6,6 @@ Current credential status on file:
 
 - WHMIS certificate: on file
 - First Aid certificate: on file
-- OCT certificate: not on file
 - Technical education qualification evidence: not on file
 
 Appointment rationale fields:
@@ -16,6 +15,10 @@ Appointment rationale fields:
 - Basis for appointment: [insert rationale]
 - Review completed by principal: [insert name]
 - Follow-up action for missing credentials: [insert action]
+
+Appointment statement:
+
+- The principal appoints this teacher to deliver TAS2O on the basis of school-level hiring judgment, the current staffing need, the available WHMIS and First Aid certification, and the teacher's demonstrated readiness to deliver the course plan under principal supervision.
 
 Supporting evidence to attach:
 
