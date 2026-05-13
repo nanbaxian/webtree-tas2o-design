@@ -1,5 +1,5 @@
 TAS2O Complete Package of Webtree Academy
-Inspection status: Ready for pre-inspection review | Last updated: 2026-05-13
+Inspection status: Internal pre-inspection review | Last updated: 2026-05-13
 
 - BSID: 883796
 - Instructor: Carlos Chen
@@ -9,7 +9,7 @@ Inspection status: Ready for pre-inspection review | Last updated: 2026-05-13
 - Phone: (416) 792-8280
 - Email: info@webtreeedu.com
 
-This package contains 58 documents: 57 TAS2O course and administration files plus the master index. Review the master index first and replace any remaining placeholders before formal use.
+This package contains 58 documents: 57 TAS2O course and administration files plus the master index. Review the master index first and replace any remaining placeholders before formal submission.
 
 Confirmed on-site practical resources
 - 3D printer available for prototyping and design iteration
@@ -22,7 +22,7 @@ Filing note
 
 Binder status
 
-| Ready for pre-inspection submission | Add after the course begins |
+| Internal pre-inspection review | Formal submission pending |
 | --- | --- |
 | Course outline and course identity documents | Real student attendance records |
 | 110-hour pacing and timetable evidence | Actual lesson-by-lesson attendance evidence |

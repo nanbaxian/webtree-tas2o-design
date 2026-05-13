@@ -27,9 +27,11 @@ Strand B alignment:
 - B1.2: The discussion can be extended to legal, ethical, social, economic, and environmental factors.
 - B1.3: The sample highlights a Canadian innovator and opens discussion of women and underrepresented contributors to technology.
 - B1.4: The case can be paired with local or Indigenous knowledge perspectives where relevant to broaden the problem-solving lens.
+- A1.7: Students can use the case page as one source in a wider research set that includes community or interview-based perspectives.
 
 Filing guidance:
 
 - Place this sample page beside the Unit 5 plan and career pathway materials.
 - Replace the sample prompts with the actual class discussion notes when the course runs.
 - Keep the case study linked to the Strand B verification matrix for binder review.
+- Add the student's source notes or interview log beside this page when A1.7 evidence is collected.
