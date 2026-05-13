@@ -17,7 +17,7 @@ Inspection navigation:
 - AI API access:
   - Technology setup and account access checklist
   - AI policy and academic integrity package
-  - Daily lesson logs where AI use is supervised and disclosed
+  - Daily lesson logs where approved AI tools were used under supervision and disclosed
   - Assessment records showing how AI-assisted work was checked
 
 Binder guidance:
