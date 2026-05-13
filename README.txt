@@ -9,7 +9,7 @@ Inspection status: Ready for pre-inspection review | Last updated: 2026-05-13
 - Phone: (416) 792-8280
 - Email: info@webtreeedu.com
 
-This package contains 49 documents: 48 TAS2O course and administration files plus the master index. Review the master index first and replace any remaining placeholders before formal use.
+This package contains 51 documents: 50 TAS2O course and administration files plus the master index. Review the master index first and replace any remaining placeholders before formal use.
 
 Confirmed on-site practical resources
 - 3D printer available for prototyping and design iteration
@@ -57,6 +57,7 @@ File list
 00_Master_Index
 - TAS2O_Complete_Package_Master_Index_Webtree_2026.docx
 - TAS2O_Master_Inspection_Navigation_Addendum.md
+- TAS2O_File_Naming_and_Index_Audit.md
 
 01_Course_Core
 - TAS2O_Course_Outline_Webtree_2026.docx
@@ -98,6 +99,7 @@ File list
 05_School_Admin_and_Inspection
 - Full_School_Course_Calendar_Template_OSSD_Webtree_2026.docx
 - TAS2O_Inspection_Binder_Index_Ministry_Submission_Checklist_Webtree_2026.docx
+- TAS2O_Printable_Inspection_Binder_Index.md
 - TAS2O_School_Course_Calendar_Addendum_Webtree_2026.docx
 - TAS2O_School_Pre_Inspection_Package_Checklist_Webtree_2026.docx
 - TAS2O_Teacher_Qualification_Resume_Training_File_Template_Webtree_2026.docx

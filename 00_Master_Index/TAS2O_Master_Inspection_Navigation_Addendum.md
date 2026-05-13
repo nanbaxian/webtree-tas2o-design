@@ -9,6 +9,8 @@ This navigation addendum sits behind the master index and provides the primary r
 | Safety and practical controls | Safety procedures, AI policy, equipment permission, and practical resources | Safety package, AI policy and academic integrity package, safety sign-off and equipment permit log, practical resources addenda |
 | Attendance and delivery | Lesson delivery, attendance, online/blended evidence, and course completion records | Assessment records package, attendance evidence log, daily lesson log completion guide, online and blended practical work guide |
 | School administration and inspection | Binder readiness, qualification file, and inspection routing | Binder index, pre-inspection package checklist, teacher qualification and training file, inspection resources navigation addendum |
+| Printable binder index | Printed tab order for a live inspection binder | Printable inspection binder index |
+| File naming and index audit | Naming convention and index alignment | File naming and index audit |
 | Facilities and technology | Equipment, classroom setup, budgets, and access control | Equipment inventory and maintenance log, lab/classroom setup checklist, materials and consumables budget, technology setup and account access checklist, onsite practical resources addendum |
 
 Filing guidance:
