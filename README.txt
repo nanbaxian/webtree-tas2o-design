@@ -9,7 +9,7 @@ Inspection status: Internal pre-inspection review | Last updated: 2026-05-13
 - Phone: (416) 792-8280
 - Email: info@webtreeedu.com
 
-This package is the current TAS2O pre-inspection binder file set. The README, master index, and printable binder index must be updated together whenever files are added or renamed. Review the master index first and replace any remaining placeholders before formal submission.
+This package contains the current TAS2O pre-inspection binder files listed below. The README, master index, printable binder index, and file naming audit must be updated together whenever files are added, removed, or renamed. Review the master index first and replace any remaining placeholders before formal submission.
 
 Confirmed on-site practical resources
 - 3D printer available for prototyping and design iteration
@@ -18,7 +18,7 @@ Confirmed on-site practical resources
 
 Filing note
 - Reference these resources in the facilities, safety, and course delivery files as school-owned evidence.
-- Use teacher-controlled AI access only in supervised workflows with clear student data handling rules and logging.
+- Teacher-controlled AI access is available for supervised demonstrations, brainstorming, accessibility support, and technical debugging. Students do not receive direct API credentials unless separately approved by school administration and documented in the technology access checklist.
 
 Binder status
 

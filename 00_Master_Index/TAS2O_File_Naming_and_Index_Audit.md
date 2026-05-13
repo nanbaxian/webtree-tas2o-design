@@ -6,7 +6,7 @@ Audit status:
 
 - Standard suffix applied to document files: `_Webtree_2026`
 - Legacy `AI_Enhanced` naming removed from visible file names and document text
-- Master index, README file set, and printable binder index require final reconciliation before formal inspection use
+- Master index, README file set, printable binder index, and file naming audit require final reconciliation before formal inspection use
 
 Verification notes:
 
