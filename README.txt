@@ -1,6 +1,4 @@
-TAS2O Complete Package AI Enhanced
-
-Webtree Academy version
+TAS2O Complete Package of Webtree Academy
 - BSID: 883796
 - Instructor: Carlos Chen
 - Principal: Henry Michels
@@ -9,7 +7,28 @@ Webtree Academy version
 - Phone: (416) 792-8280
 - Email: info@webtreeedu.com
 
-This folder contains 30 documents: 29 TAS2O course/admin files plus the master index. Review the master index first. Replace any remaining template placeholders before official use.
+This folder contains 35 documents: 34 TAS2O course/admin files plus the master index. Review the master index first. Replace any remaining template placeholders before official use.
+
+Inspection readiness
+
+| Now ready for pre-inspection submission | Add after the course begins |
+| --- | --- |
+| Course outline and course identity documents | Real student attendance records |
+| 110-hour pacing and timetable evidence | Actual lesson-by-lesson attendance evidence |
+| Curriculum mapping and specific expectations alignment | Actual student work samples |
+| Unit plans and major assignments | Marked student submissions and teacher feedback |
+| Rubrics and teacher exemplars | Conference notes tied to real students |
+| Safety package, AI policy, parent consent, and photo/video consent forms | Finalized report card marks and credit decisions |
+| School course calendar and inspection binder index | Ongoing make-up hour tracking for real absences |
+| Teacher qualification and training file | Actual classroom observation evidence from live delivery |
+| Facilities, technology setup, and materials planning | Updated daily lesson logs for each taught class |
+| Communication templates and student onboarding package | Live communication records sent to families and students |
+| Indigenous content addendum, lesson plan, project plan prompt, observation form, and conference record | Indigenous curriculum integration evidence, project planning prompts, and teacher observation/conversation records |
+
+Rule of thumb
+- If it exists before the first class, it belongs in the pre-inspection binder.
+- If it depends on real students, real lessons, or real marks, it belongs in the live course file after classes start.
+- Do not invent student records, attendance, or marks before the course is running.
 
 Directory structure
 - 00_Master_Index
@@ -30,11 +49,14 @@ File list
 - TAS2O_110_Hour_Pacing_Guide_AI_Enhanced.docx
 - TAS2O_Curriculum_Mapping_Expectations_Coverage_AI_Enhanced.docx
 - TAS2O_Unit_Plans_AI_Enhanced.docx
+- TAS2O_Indigenous_Content_Course_Outline_Addendum.docx
+- TAS2O_Indigenous_Innovation_Lesson_Plan.docx
 
 02_Assignments_and_Rubrics
 - TAS2O_Major_Assignments_Package_AI_Enhanced.docx
 - TAS2O_Rubrics_Package_AI_Enhanced.docx
 - TAS2O_Teacher_Exemplars_Student_Work_Samples_Package_AI_Enhanced.docx
+- TAS2O_Project_Plan_Template_with_Indigenous_Prompt.docx
 
 03_Safety_AI_and_Practical_Controls
 - TAS2O_Safety_Package_AI_Enhanced.docx
@@ -49,6 +71,8 @@ File list
 - TAS2O_Online_Blended_Learning_Evidence_Log_AI_Enhanced.docx
 - TAS2O_Report_Card_Credit_Reporting_Procedure_AI_Enhanced.docx
 - TAS2O_Teacher_Daily_Lesson_Log_AI_Enhanced.docx
+- TAS2O_Observation_Record_Form.docx
+- TAS2O_Student_Conference_Record.docx
 
 05_School_Admin_and_Inspection
 - Full_School_Course_Calendar_Template_OSSD_AI_Enhanced.docx
