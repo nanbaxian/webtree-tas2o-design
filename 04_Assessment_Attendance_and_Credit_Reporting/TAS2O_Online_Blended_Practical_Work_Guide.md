@@ -1,12 +1,12 @@
 # TAS2O Online and Blended Practical Work Guide
 
-This guide clarifies where practical learning occurs and how it is supervised.
+This guide identifies where practical learning occurs and how it is supervised.
 
 Delivery settings:
 
 - Design research, drafting, reflection, and digital planning may occur online.
 - 3D printing and circuit-board work are completed on site unless the school has a separate approved supervised arrangement.
-- Any home-based work must be limited to non-hazardous planning, documentation, or reflection tasks.
+- Any home-based work is limited to non-hazardous planning, documentation, or reflection tasks.
 
 Required evidence:
 

@@ -1,6 +1,6 @@
 # TAS2O Safety Sign-Off and Equipment Permit Log
 
-This log tracks student acknowledgement and practical equipment permission.
+This log records student acknowledgement and practical equipment permission.
 
 Log fields:
 

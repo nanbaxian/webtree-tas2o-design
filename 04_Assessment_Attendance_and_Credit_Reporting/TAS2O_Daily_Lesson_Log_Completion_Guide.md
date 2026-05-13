@@ -1,6 +1,6 @@
 # TAS2O Daily Lesson Log Completion Guide
 
-This guide explains how the daily lesson log should be completed after the course begins.
+This guide sets out how the daily lesson log should be completed after the course begins.
 
 Required entries for each lesson:
 

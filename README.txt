@@ -7,7 +7,7 @@ TAS2O Complete Package of Webtree Academy
 - Phone: (416) 792-8280
 - Email: info@webtreeedu.com
 
-This package contains 45 documents: 44 TAS2O course and administration files plus the master index. Review the master index first and replace any remaining placeholders before formal use.
+This package contains 46 documents: 45 TAS2O course and administration files plus the master index. Review the master index first and replace any remaining placeholders before formal use.
 
 Confirmed on-site practical resources
 - 3D printer available for prototyping and design iteration
@@ -54,6 +54,7 @@ Directory structure
 File list
 00_Master_Index
 - TAS2O_Complete_Package_Master_Index.docx
+- TAS2O_Master_Inspection_Navigation_Addendum.md
 
 01_Course_Core
 - TAS2O_Course_Outline.docx
