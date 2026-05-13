@@ -7,7 +7,7 @@ TAS2O Complete Package of Webtree Academy
 - Phone: (416) 792-8280
 - Email: info@webtreeedu.com
 
-This folder contains 35 documents: 34 TAS2O course/admin files plus the master index. Review the master index first. Replace any remaining template placeholders before official use.
+This folder contains 36 documents: 35 TAS2O course/admin files plus the master index. Review the master index first. Replace any remaining template placeholders before official use.
 
 Inspection readiness
 
@@ -19,11 +19,12 @@ Inspection readiness
 | Unit plans and major assignments | Marked student submissions and teacher feedback |
 | Rubrics and teacher exemplars | Conference notes tied to real students |
 | Safety package, AI policy, parent consent, and photo/video consent forms | Finalized report card marks and credit decisions |
-| School course calendar and inspection binder index | Ongoing make-up hour tracking for real absences |
+| School course calendar, inspection binder index, and OSR/OST procedure | Ongoing make-up hour tracking for real absences and student progression records |
 | Teacher qualification and training file | Actual classroom observation evidence from live delivery |
 | Facilities, technology setup, and materials planning | Updated daily lesson logs for each taught class |
 | Communication templates and student onboarding package | Live communication records sent to families and students |
 | Indigenous content addendum, lesson plan, project plan prompt, observation form, and conference record | Indigenous curriculum integration evidence, project planning prompts, and teacher observation/conversation records |
+| OSR/OST policy, OSSLT procedure, and community involvement log | Live student record maintenance, literacy support notes, and community hours tracking |
 
 Rule of thumb
 - If it exists before the first class, it belongs in the pre-inspection binder.
@@ -80,6 +81,7 @@ File list
 - TAS2O_School_Course_Calendar_Addendum_AI_Enhanced.docx
 - TAS2O_School_Pre_Inspection_Package_Checklist_AI_Enhanced.docx
 - TAS2O_Teacher_Qualification_Resume_Training_File_Template_AI_Enhanced.docx
+- OSR_OST_Policy_and_Procedure.docx
 
 06_Facilities_Technology_and_Budget
 - TAS2O_Equipment_Inventory_Maintenance_Log_AI_Enhanced.docx
