@@ -14,7 +14,7 @@ Inspection references:
   - Lab/classroom setup checklist
   - Safety package
   - Observation records and student conference notes
-- AI API access:
+- Teacher-controlled AI access:
   - Technology setup and account access checklist
   - AI policy and academic integrity package
   - Daily lesson logs where approved AI tools were used under supervision and disclosed

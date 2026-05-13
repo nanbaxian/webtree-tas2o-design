@@ -35,3 +35,4 @@ Filing guidance:
 - Replace the sample prompts with the actual class discussion notes when the course runs.
 - Keep the case study linked to the Strand B verification matrix for binder review.
 - Add the student's source notes or interview log beside this page when A1.7 evidence is collected.
+- Use this page with the Unit 5 career and innovation inquiry assignment as the student-facing research model.

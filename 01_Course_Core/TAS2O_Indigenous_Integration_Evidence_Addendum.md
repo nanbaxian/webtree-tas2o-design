@@ -15,6 +15,7 @@ Records to retain:
 - Project prompts requiring students to consider community impact, stewardship, and responsible design.
 - Rubrics assessing reflection, context awareness, and respectful research practice.
 - Research logs or interview notes showing how students collected information from diverse sources.
+- The Unit 5 career and innovation inquiry assignment and sample page showing where A1.7 evidence is collected.
 
 Filing guidance:
 

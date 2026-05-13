@@ -14,7 +14,7 @@ Resource controls:
   - Students do not perform mains wiring.
   - Cover lead handling, loose-wire control, and short-circuit precautions before practical work.
   - Inspect equipment before each practical lesson.
-- AI API access:
+- AI access:
   - Use teacher-controlled access unless the school has approved student accounts.
   - Do not place personal or confidential student data in prompts.
   - Keep prompt and output logs for integrity and safety review.

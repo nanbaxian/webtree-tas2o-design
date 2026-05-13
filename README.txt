@@ -9,16 +9,16 @@ Inspection status: Internal pre-inspection review | Last updated: 2026-05-13
 - Phone: (416) 792-8280
 - Email: info@webtreeedu.com
 
-This package contains 58 documents: 57 TAS2O course and administration files plus the master index. Review the master index first and replace any remaining placeholders before formal submission.
+This package is the current TAS2O pre-inspection binder file set. The README, master index, and printable binder index must be updated together whenever files are added or renamed. Review the master index first and replace any remaining placeholders before formal submission.
 
 Confirmed on-site practical resources
 - 3D printer available for prototyping and design iteration
 - Simplified circuit boards available for introductory electronics experiments
-- AI API key available for controlled testing and supervised instructional use
+- Teacher-controlled AI access available for supervised demonstrations, brainstorming, accessibility support, and technical debugging
 
 Filing note
 - Reference these resources in the facilities, safety, and course delivery files as school-owned evidence.
-- Use the AI API key only in supervised workflows with clear student data handling rules and logging.
+- Use teacher-controlled AI access only in supervised workflows with clear student data handling rules and logging.
 
 Binder status
 
@@ -33,7 +33,7 @@ Binder status
 | School course calendar, inspection binder index, and OSR/OST procedure | Ongoing make-up hour tracking for real absences and student progression records |
 | Teacher qualification and training file | Actual classroom observation evidence from live delivery |
 | Facilities, technology setup, and materials planning | Updated daily lesson logs for each taught class |
-| 3D printer, circuit boards, and AI API access | Equipment use logs, safety checks, and supervised testing records |
+| 3D printer, circuit boards, and teacher-controlled AI access | Equipment use logs, safety checks, and supervised testing records |
 | Communication templates and student onboarding package | Live communication records sent to families and students |
 | Indigenous content addendum, lesson plan, project plan prompt, observation form, and conference record | Indigenous curriculum integration evidence, project planning prompts, and teacher observation/conversation records |
 | OSR/OST policy, OSSLT procedure, and community involvement log | Live student record maintenance, literacy support notes, and community hours tracking |
@@ -59,6 +59,7 @@ File list
 - TAS2O_Master_Inspection_Navigation_Addendum.md
 - TAS2O_File_Naming_and_Index_Audit.md
 - TAS2O_Specific_Expectations_Verification_Matrix.md
+- TAS2O_Strand_B_Specific_Expectations_Verification_Matrix.md
 
 01_Course_Core
 - TAS2O_Course_Outline_Webtree_2026.docx
@@ -69,12 +70,14 @@ File list
 - TAS2O_Indigenous_Innovation_Lesson_Plan_Webtree_2026.docx
 - TAS2O_Indigenous_Integration_Evidence_Addendum.md
 - TAS2O_Unit_5_Canadian_Innovation_Case_Study_Addendum.md
+- TAS2O_Unit_5_Canadian_Innovation_Case_Study_Sample_Page.md
 
 02_Assignments_and_Rubrics
 - TAS2O_Major_Assignments_Package_Webtree_2026.docx
 - TAS2O_Rubrics_Package_Webtree_2026.docx
 - TAS2O_Teacher_Exemplars_Student_Work_Samples_Package_Webtree_2026.docx
 - TAS2O_Project_Plan_Template_with_Indigenous_Prompt_Webtree_2026.docx
+- TAS2O_Unit_5_Career_and_Innovation_Inquiry_Assignment.md
 - TAS2O_Anonymous_Assessment_Sample_Packet_Guide.md
 - TAS2O_Rubric_Revision_Notes.md
 

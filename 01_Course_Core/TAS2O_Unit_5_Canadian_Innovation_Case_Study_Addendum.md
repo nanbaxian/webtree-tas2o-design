@@ -26,4 +26,4 @@ Filing guidance:
 - Attach this addendum to the Unit 5 plan and career pathway report materials.
 - Use one or more short case-study paragraphs rather than a single sentence mention.
 - Align the discussion with Strand B evidence for B1.1 through B1.4 before final binder submission.
-- Pair this addendum with the sample page at [TAS2O_Unit_5_Canadian_Innovation_Case_Study_Sample_Page.md](TAS2O_Unit_5_Canadian_Innovation_Case_Study_Sample_Page.md) for binder assembly.
+- Pair this addendum with the sample page at [TAS2O_Unit_5_Canadian_Innovation_Case_Study_Sample_Page.md](TAS2O_Unit_5_Canadian_Innovation_Case_Study_Sample_Page.md) and the assignment at [../02_Assignments_and_Rubrics/TAS2O_Unit_5_Career_and_Innovation_Inquiry_Assignment.md](../02_Assignments_and_Rubrics/TAS2O_Unit_5_Career_and_Innovation_Inquiry_Assignment.md) for binder assembly.
