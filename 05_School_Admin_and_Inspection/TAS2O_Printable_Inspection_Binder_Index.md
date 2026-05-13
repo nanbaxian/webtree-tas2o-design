@@ -12,13 +12,14 @@ Binder order:
 6. Indigenous integration evidence
 7. Major assignments, rubrics, and exemplars
 8. Anonymous assessment sample packet
-9. Safety package and AI policy
-10. Safety sign-off and equipment permit log
-11. Attendance evidence and daily lesson logs
-12. Online and blended practical work evidence
-13. Teacher qualification and credential status file
-14. Facilities inventory, setup checklist, and lab photos
-15. Communication, onboarding, and reporting materials
+9. Specific expectations verification matrix
+10. Safety package and AI policy
+11. Safety sign-off and equipment permit log
+12. Attendance evidence and daily lesson logs
+13. Online and blended practical work evidence
+14. Teacher qualification, credential status, and principal rationale
+15. Facilities inventory, setup checklist, and lab photos
+16. Communication, onboarding, and reporting materials
 
 Inspection cue:
 
