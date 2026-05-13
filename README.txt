@@ -7,7 +7,16 @@ TAS2O Complete Package of Webtree Academy
 - Phone: (416) 792-8280
 - Email: info@webtreeedu.com
 
-This folder contains 36 documents: 35 TAS2O course/admin files plus the master index. Review the master index first. Replace any remaining template placeholders before official use.
+This folder contains 40 documents: 39 TAS2O course/admin files plus the master index. Review the master index first. Replace any remaining template placeholders before official use.
+
+Known on-site practical resources
+- 3D printer available for prototyping and design iteration
+- Simplified circuit boards available for introductory electronics experiments
+- AI API key available for controlled testing and supervised instructional use
+
+Inspection note
+- These resources should be referenced in the facilities, safety, and course delivery files as live, school-owned evidence.
+- The AI API key should be used only in supervised workflows with clear student data handling rules and logging.
 
 Inspection readiness
 
@@ -22,6 +31,7 @@ Inspection readiness
 | School course calendar, inspection binder index, and OSR/OST procedure | Ongoing make-up hour tracking for real absences and student progression records |
 | Teacher qualification and training file | Actual classroom observation evidence from live delivery |
 | Facilities, technology setup, and materials planning | Updated daily lesson logs for each taught class |
+| 3D printer, circuit boards, and AI API access | Equipment use logs, safety checks, and supervised testing records |
 | Communication templates and student onboarding package | Live communication records sent to families and students |
 | Indigenous content addendum, lesson plan, project plan prompt, observation form, and conference record | Indigenous curriculum integration evidence, project planning prompts, and teacher observation/conversation records |
 | OSR/OST policy, OSSLT procedure, and community involvement log | Live student record maintenance, literacy support notes, and community hours tracking |
@@ -65,6 +75,7 @@ File list
 - TAS2O_Parent_Consent_Practical_Course_Acknowledgement_AI_Enhanced.docx
 - TAS2O_Photo_Video_Portfolio_Consent_Form_AI_Enhanced.docx
 - TAS2O_Substitute_Teacher_Emergency_Plan_AI_Enhanced.docx
+- TAS2O_Safety_Practical_Resources_Addendum.md
 
 04_Assessment_Attendance_and_Credit_Reporting
 - TAS2O_Assessment_Records_Package_AI_Enhanced.docx
@@ -74,6 +85,7 @@ File list
 - TAS2O_Teacher_Daily_Lesson_Log_AI_Enhanced.docx
 - TAS2O_Observation_Record_Form.docx
 - TAS2O_Student_Conference_Record.docx
+- TAS2O_Assessment_Practical_Resources_Addendum.md
 
 05_School_Admin_and_Inspection
 - Full_School_Course_Calendar_Template_OSSD_AI_Enhanced.docx
@@ -82,12 +94,14 @@ File list
 - TAS2O_School_Pre_Inspection_Package_Checklist_AI_Enhanced.docx
 - TAS2O_Teacher_Qualification_Resume_Training_File_Template_AI_Enhanced.docx
 - OSR_OST_Policy_and_Procedure.docx
+- TAS2O_Inspection_Resources_Navigation_Addendum.md
 
 06_Facilities_Technology_and_Budget
 - TAS2O_Equipment_Inventory_Maintenance_Log_AI_Enhanced.docx
 - TAS2O_Lab_Classroom_Setup_Checklist_AI_Enhanced.docx
 - TAS2O_Materials_Consumables_Budget_AI_Enhanced.docx
 - TAS2O_Technology_Setup_Account_Access_Checklist_AI_Enhanced.docx
+- TAS2O_Onsite_Practical_Resources_Addendum.md
 
 07_Student_Communication_and_Showcase
 - TAS2O_Capstone_Showcase_Demo_Day_Plan_AI_Enhanced.docx
