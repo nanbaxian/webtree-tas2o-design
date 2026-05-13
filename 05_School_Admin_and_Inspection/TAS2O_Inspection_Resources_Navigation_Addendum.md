@@ -1,8 +1,8 @@
 # TAS2O Inspection Resources Navigation Addendum
 
-This addendum tells an inspector where to find the evidence for the three practical resources.
+This addendum directs an inspector to the evidence for the three practical resources.
 
-Inspection navigation:
+Inspection references:
 
 - 3D printer:
   - Facilities inventory and maintenance log
@@ -22,5 +22,5 @@ Inspection navigation:
 
 Binder guidance:
 
-- Keep this addendum behind the inspection binder index so the inspector can move directly from the checklist to the supporting evidence.
-- If the school changes equipment, access rules, or vendor accounts, update the navigation addendum first and then the linked records.
+- File this addendum immediately behind the inspection binder index so the inspector can move directly from the checklist to the supporting evidence.
+- If equipment, access rules, or vendor accounts change, update this addendum first and then the linked records.

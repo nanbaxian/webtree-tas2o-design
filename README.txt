@@ -7,20 +7,20 @@ TAS2O Complete Package of Webtree Academy
 - Phone: (416) 792-8280
 - Email: info@webtreeedu.com
 
-This folder contains 40 documents: 39 TAS2O course/admin files plus the master index. Review the master index first. Replace any remaining template placeholders before official use.
+This package contains 40 documents: 39 TAS2O course and administration files plus the master index. Review the master index first and replace any remaining placeholders before formal use.
 
-Known on-site practical resources
+Confirmed on-site practical resources
 - 3D printer available for prototyping and design iteration
 - Simplified circuit boards available for introductory electronics experiments
 - AI API key available for controlled testing and supervised instructional use
 
-Inspection note
-- These resources should be referenced in the facilities, safety, and course delivery files as live, school-owned evidence.
-- The AI API key should be used only in supervised workflows with clear student data handling rules and logging.
+Filing note
+- Reference these resources in the facilities, safety, and course delivery files as school-owned evidence.
+- Use the AI API key only in supervised workflows with clear student data handling rules and logging.
 
-Inspection readiness
+Binder status
 
-| Now ready for pre-inspection submission | Add after the course begins |
+| Ready for pre-inspection submission | Add after the course begins |
 | --- | --- |
 | Course outline and course identity documents | Real student attendance records |
 | 110-hour pacing and timetable evidence | Actual lesson-by-lesson attendance evidence |
@@ -36,10 +36,10 @@ Inspection readiness
 | Indigenous content addendum, lesson plan, project plan prompt, observation form, and conference record | Indigenous curriculum integration evidence, project planning prompts, and teacher observation/conversation records |
 | OSR/OST policy, OSSLT procedure, and community involvement log | Live student record maintenance, literacy support notes, and community hours tracking |
 
-Rule of thumb
-- If it exists before the first class, it belongs in the pre-inspection binder.
-- If it depends on real students, real lessons, or real marks, it belongs in the live course file after classes start.
-- Do not invent student records, attendance, or marks before the course is running.
+Filing principle
+- Materials that exist before the first class belong in the pre-inspection binder.
+- Materials that depend on real students, real lessons, or real marks belong in the live course file after classes begin.
+- Do not create student records, attendance, or marks before the course is running.
 
 Directory structure
 - 00_Master_Index

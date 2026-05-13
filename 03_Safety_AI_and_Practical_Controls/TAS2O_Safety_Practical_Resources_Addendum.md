@@ -1,27 +1,27 @@
 # TAS2O Safety and Practical Resources Addendum
 
-This addendum supports the safety package and AI policy.
+This addendum is filed with the safety package and AI policy.
 
-Resource-specific controls:
+Resource controls:
 
 - 3D printer:
-  - Supervised use only
-  - Hot-surface and moving-part briefing required before first use
-  - Print jobs must be started, paused, or cancelled by the teacher or designated staff member
-  - Safety sign-off should be collected before student access
+  - Use under direct teacher supervision.
+  - Provide a hot-surface and moving-parts safety briefing before first use.
+  - Print jobs are started, paused, or cancelled by the teacher or designated staff member.
+  - Collect student acknowledgement before access is granted.
 - Simplified circuit boards:
-  - Low-voltage classroom use only
-  - No mains wiring by students
-  - Lead/loose-wire handling and short-circuit precautions must be covered
-  - Equipment should be inspected before each practical lesson
+  - Use low-voltage classroom circuits only.
+  - Students do not perform mains wiring.
+  - Cover lead handling, loose-wire control, and short-circuit precautions before practical work.
+  - Inspect equipment before each practical lesson.
 - AI API access:
-  - Teacher-controlled access only unless the school explicitly approves student accounts
-  - No personal or confidential student data in prompts
-  - Prompt and output logging required for integrity and safety review
-  - Generated content must be verified before student use or assessment submission
+  - Use teacher-controlled access unless the school has approved student accounts.
+  - Do not place personal or confidential student data in prompts.
+  - Keep prompt and output logs for integrity and safety review.
+  - Verify any generated content before student use or assessment submission.
 
-Where to place evidence:
+Filing guidance:
 
-- Safety briefings and student acknowledgements should be attached to the safety package.
-- AI usage rules and logging expectations should be attached to the AI policy.
-- Any incident or near-miss involving the printer or circuit boards should be recorded in the substitute/emergency plan and safety log.
+- File safety briefings and student acknowledgements with the safety package.
+- Attach AI usage rules and logging expectations to the AI policy.
+- Record any incident or near-miss involving the printer or circuit boards in the substitute/emergency plan and safety log.
